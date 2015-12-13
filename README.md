@@ -1,14 +1,13 @@
-# SVG-tutorial
+# SVG-tutorial :
 
 Some basic logos created with pure html and css using svg . 
 
-You don't need to upload your png logos anymore.
+IF you're not a photoshop fan , or you don't master it , or you simply want to stick to code . You can use SVG to create and draw whatever you want with pure html/css code . 
 
-with SVG you can create and draw whatever you want with html .
- 
-Therefore you don't have to master Photoshop to have a clean design of your website . 
+
 
 #DEMO :
+Some very simple and basic logos , that I created using SVG , you can check the code , It's really simple :D . 
 
 http://codepen.io/omodev/full/BjoWwE/
 
