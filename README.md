@@ -11,4 +11,7 @@ Some very simple and basic logos , that I created using SVG , you can check the 
 
 http://codepen.io/omodev/full/BjoWwE/
 
+Some funny stuff :D :
+http://codepen.io/omodev/full/YwyEKy/
+
 
