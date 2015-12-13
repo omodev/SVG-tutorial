@@ -1,0 +1,11 @@
+@import url(https://fonts.googleapis.com/css?family=Courgette|Oswald);
+
+h1 {
+  font-size: 52px;
+  margin-bottom: 30px;
+  font-family: 'Courgette', sans-serif;
+  letter-spacing: -1px;
+  text-shadow: #b98c71 1px 1px 0;
+  padding:20px;
+  text-align:center ;
+}
